@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💡 About Me:
 🔭 I’m currently working as a Full Stack Developer<br>🌱 I’m currently learning Azure, AWS, DevOps<br>💬 Ask me about Movies
 
 
