@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Python, VueJS<br>🌱 I’m currently learning Azure, AWS, DevOps<br>💬 Ask me about Movies
+🔭 I’m currently working as a Full Stack Developer<br>🌱 I’m currently learning Azure, AWS, DevOps<br>💬 Ask me about Movies
 
 
 ## 🌐 Socials:
