@@ -10,12 +10,12 @@
     <a href="https://twitter.com/iJaswant1"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white"/></a>
   </p>
 
-  <p align="center" style="color: #6a89cc;">🚀 Full Stack Developer | 🌱 Learning Azure, AWS, DevOps | 🎬 Movie Enthusiast</p>
+  <p align="center" style="color: #6a89cc;">🚀 Full Stack Developer | 🎬 Movie Enthusiast</p>
 
   <h2 align="center" style="color: #4a69bd;">About Me 🧑‍🚀</h2>
 
   <p align="center" style="color: #4b6584;">
-    I'm a passionate Full Stack Developer with a love for creating efficient and scalable solutions. When I'm not coding, you can find me exploring the latest in cloud technologies or discussing the intricacies of film-making.
+    Trying to learn better ways to code and to repeat the greatest quote - "to make the world a better place". xD
   </p>
 </div>
 
