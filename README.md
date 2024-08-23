@@ -2,7 +2,7 @@
 <table>
   <tr>
     <td width="50%">
-      <img src="x+y^2+z^3.gif" width="100%" alt="My GIF">
+      <img src="x+y^2+z^3.gif"  alt="My GIF">
     </td>
     <td width="50%">
       <h1>About Me:</h1>
