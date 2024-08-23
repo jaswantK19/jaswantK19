@@ -1,6 +1,17 @@
-# ![](x+y^2+z^3.gif) About Me:
-🔭 I’m currently working as a Full Stack Developer<br>🌱 I’m currently learning Azure, AWS, DevOps<br>💬 Ask me about Movies
-
+#  About Me:
+<table>
+  <tr>
+    <td width="50%">
+      <img src="x+y^2+z^3.gif" width="100%" alt="My GIF">
+    </td>
+    <td width="50%">
+      <h1>About Me:</h1>
+      <p>🔭 I'm currently working as a Full Stack Developer</p>
+      <p>🌱 I'm currently learning Azure, AWS, DevOps</p>
+      <p>💬 Ask me about Movies</p>
+    </td>
+  </tr>
+</table>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jaswantk19) 
