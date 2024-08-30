@@ -14,9 +14,7 @@
 
   <h2 align="center" style="color: #4a69bd;">About Me 🧑‍🚀</h2>
 
-  <p align="center" style="color: #4b6584;">
-    Trying to learn better ways to code and to repeat the greatest quote - "to make the world a better place". xD
-  </p>
+  
 </div>
 
 <div class="container">
